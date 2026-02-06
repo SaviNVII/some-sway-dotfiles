@@ -1,5 +1,6 @@
 # Overview
 Some basic personal sway dotfiles
+
 Most of this was made by my friend lmao, you can find their original dotfiles [here](https://github.com/protogenposting/sway-dotfiles)
 
 # Features
